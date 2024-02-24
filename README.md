@@ -37,12 +37,15 @@ Provide a link to the live demo of your portfolio. <br> <img src="https://media.
 - CSS
 - JavaScript
 - jQuery
+- php
 - Bootstrap
 - Google fonts
 - flaticon icon
+- favicon generator
+- git for CI CD
 
 ## Tools Used
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,jquery,php)](https://skillicons.dev)
 
 
 ## 💻Installation 
