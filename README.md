@@ -16,9 +16,19 @@ In these virtual halls, you will find a collection of my works spanning from the
 
 ## Demo        
 Provide a link to the live demo of your portfolio. <br> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-[Deployment Link](https://ved0212.github.io/My-Portfolio/)
+[Deployment Link](https://ved0212.github.io/Swati-portfolio/)
 
 ## Screenshots
+![Screenshot (88)](https://github.com/Ved0212/Swati-portfolio/assets/152055524/63494aa2-db10-404f-bd1f-8a14b4b6b282)
+![Screenshot (89)](https://github.com/Ved0212/Swati-portfolio/assets/152055524/766812b2-b56c-4b7b-935a-62e4d23cd958)
+![Screenshot (90)](https://github.com/Ved0212/Swati-portfolio/assets/152055524/1ddce814-8bbf-4708-bf34-7911b4a8cbc2)
+![Screenshot (91)](https://github.com/Ved0212/Swati-portfolio/assets/152055524/b02d88d4-4eda-4e45-9ea1-2090f65f9bdd)
+![Screenshot (92)](https://github.com/Ved0212/Swati-portfolio/assets/152055524/06d3e489-fe2f-4205-ba0a-b96149b0616a)
+![Screenshot (93)](https://github.com/Ved0212/Swati-portfolio/assets/152055524/235b29f1-a75e-41cf-9517-848739c2e5af)
+![Screenshot (94)](https://github.com/Ved0212/Swati-portfolio/assets/152055524/e3290854-a7b3-4303-989a-038976e4b6d8)
+![Screenshot (95)](https://github.com/Ved0212/Swati-portfolio/assets/152055524/39d9a309-0dfa-4edd-b40c-84e0d3b3a65c)
+
+
 
 
 ## Features
